@@ -5,7 +5,7 @@ This is a how to for starting a repository using git, git bash, github, and visu
 ## Table of contents
 
 - [Get started](#get-started)
-- [Home](#https://github.com/WorthingtonSteel/How-to-initialize-git-repository/wiki)
+- [Home](https://github.com/WorthingtonSteel/How-to-initialize-git-repository/wiki)
 ## Get started
 
 - Download [Visual Studio Code](https://code.visualstudio.com/)
