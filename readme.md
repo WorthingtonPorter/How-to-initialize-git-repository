@@ -1,1 +1,1 @@
-##This is a how to for starting a repository using git, git bash, github, and visual studio code
+## This is a how to for starting a repository using git, git bash, github, and visual studio code
