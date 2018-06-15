@@ -14,4 +14,3 @@ This is a how to for starting a repository using git, git bash, github, and visu
 - Download [git](https://git-scm.com/downloads)
 
 > Show initial setup of visual studio code and git
-
